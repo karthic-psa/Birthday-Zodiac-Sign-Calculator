@@ -13,13 +13,13 @@ As we are using Java, we use junit testing.
 For this we use the following libraries:
 1.	```import static org.junit.Assert.*;```
 2.	```import org.junit.Test;```
-Then we use the following to conduct the tests in different methods:
+3. Then we use the following to conduct the tests in different methods:
 ```assertEquals(boolean expected, boolean actual)```
 
 ### Tests: ###
 >	We create the 1st test case to test and validate the date
 >	We create the 2nd test case to test and validate the zodiac sign
->	We create the 3rd test case to test and validate the day of the week for the entered date.
+>	We create the 3rd test case to test and validate the day of the week for the entered date
 
 ## Instruction to run the application ##
 
