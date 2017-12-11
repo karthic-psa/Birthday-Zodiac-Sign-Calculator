@@ -11,8 +11,8 @@
 Testing by implementing **TDD**:
 As we are using Java, we use junit testing. 
 For this we use the following libraries:
-•	```import static org.junit.Assert.*;```
-•	```import org.junit.Test;```
+1.	```import static org.junit.Assert.*;```
+2.	```import org.junit.Test;```
 Then we use the following to conduct the tests in different methods:
 ```assertEquals(boolean expected, boolean actual)```
 
